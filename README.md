@@ -1,7 +1,7 @@
 # Lenovo-Y50-70-Hackintosh-Monterey-EFI
 ## 联想Y50-70-I5版本
 
-基于GeekyCoder7 Ventura版本EFI做了修改以适配自己的电脑版本<br>
+基于GeekyCoder7 Ventura版本EFI做了修改以适配自己的电脑<br>
 原作者仓库：https://github.com/GeekyCoder7/OpenCore-EFI-Lenovo-Y50-70.git
 
 ![截屏2023-01-03 00 23 44](https://user-images.githubusercontent.com/93360682/210303507-e6d3605c-719d-4a44-8bda-df78f5fadd71.png)
